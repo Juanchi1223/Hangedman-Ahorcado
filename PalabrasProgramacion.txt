@@ -1,0 +1,50 @@
+python#lenguaje de programación de alto nivel, interpretado y portable, usado durante la cursada
+funciones#parte de un código que solo es ejecutado al ser referido a él mediante <...>(parámetro)
+def#siglas que indican la inicialización de una función en el código
+funciones lambda#tipo de función pequeña, anónima, desechable y de una sola línea
+booleano#sólo tiene dos valores posibles
+iteracion#la repetición de un proceso con una meta
+input#función que indica el ingreso de datos del usuario por teclado
+string#tipo de dato cuyo valor está compuesto por caracteres y está encerrado entre comillas
+entero#tipo de dato que es divisible por 10
+racional#tipo de dato numérico que se destaca por poseer infinita cantidad de números entre cada uno
+raw#función de formateo de string que toma los caracteres tal cual escritos 
+map#función que aplica una función a todo elemento dentro de un iterable
+math#módulo incorporado a Python con el propósito de resolver cuentas matemáticas más complejas
+rt#parámetro de la función open que indica a la máquina que lea el contenido del archivo ingresado a la función
+wt#parámetro de la función open que indica a la máquina que cree o reescriba el archivo ingresado a la función
+pop#método de lista que sirve para eliminar un elemento de la misma a través de su posición en la misma
+insert#método de lista que sirve para agregar un elemento con dos parámetros, la posición y el elemento a agregar
+remove#método de lista que elimina un elemento ingresando el elemento en cuestión. Este eliminará en la primera aparición del elemento.
+index#método que sirve para encontrar la posición de un elemento dentro de una lista
+count#método que sirve para contar la cantidad de repeticiones de un elemento dentro de una lista
+clear#método que sirve para borrar todo contenido de una lista
+sort#método que sirve para ordenar una lista de forma alfanumérica ascendente    
+len#función incorporada de Python que sirve para contar el largo de un arreglo o cadena de caracteres
+while#estructura iterativa que se repite mientras la condición sea True (Verdadera)
+for#estructura iterativa que se repite un cantidad de veces determinada
+if#estructura de control que, mediante una condición, ejecuta cierta parte de código u otra dependiendo del valor de verdad de la condición
+random#módulo incorporado de Python que trata sobre la creación de números al azar
+except#bloque de código que se ejecuta al momento que un determinado error o cualquier aparece
+try#bloque de código el cual se ejecuta con el propósito de testear por errores. Se usa en combinación al "excepción"
+archivos#conjunto de registros que sirven para poder almacenar datos del código en memoria o leer datos de la misma  
+tuplas#secuencia ordenada de elementos homogéneos, cuyo orden no puede ser alterado ni tampoco se le puede agregar o sacar elementos de la misma
+conjuntos#grupo de elementos sin un orden específico, por ende los elementos no pueden ser referenciados por separado, ni tampoco puede agregar o eliminar elementos de esta. Tampoco acepta elementos duplicados
+diccionarios#estructura de datos donde cada dato está compuesto por una clave y su valor
+matrices#técnica de programación donde cada elemento de la lista tiene una lista dentro. Tambien referido como "Lista de listas" 
+listas#secuencia de elementos homogéneos comúnmente asignado una variable por secuencia
+recursividad#técnica de programación donde una función es compuesta por la misma de manera iterativa
+variables#palabras claves cuyo propósito es contener datos para ser usados dentro del código
+casting#cambiar el tipo de data de una variable para obtener un tipo de dato deseado. Ya sea mediante una función str, int o float
+str#función de casting que cambia el tipo de contenido desde un entero o racional a un string  
+int#función de casting que cambia el tipo de contenido desde una cadena de caracteres o un racional a un numero entero
+float#función de casting que cambia el tipo de contenido desde una cadena de caracteres o entero a un numero racional
+type#función integrada de Python que le ingresas una variable como parámetro y te devuelve el tipo de dato del que se trata en la variable 
+id#función integrada de Python que al ingresarle una variable como parámetro te devuelve la dirección de memoria asociada a esa variable
+operadores aritmeticos#conjunto de caracteres usados con números enteros o racionales para poder hacer cuentas matemáticas básicas dentro del código (ej.: = - * / %)
+operadores de comparacion#conjunto de caracteres usados para realizar comparaciones entre dos valores ingresados (<,>,<=, >=)
+operadores logicos#conjunto de caracteres usados para combinar dos o más condiciones (or, and, not)
+close#método de manejo de archivo que cierra el archivo del que se trate
+open#método de manejo de archivos que abre un archivo de entrada, ya sea leyéndolo o creando un nuevo depende el parámetro ingresado
+readlines#método de manejo de archivos que lee solo una línea del archivo en cuestión
+print#función integrada de Python que muestra por consola la variable o el texto ingresado como parámetro
